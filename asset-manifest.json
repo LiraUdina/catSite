@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactCookieClicker/static/css/main.be4dc93a.css",
+    "main.js": "/ReactCookieClicker/static/js/main.afdab95d.js",
+    "static/js/787.a663bc8e.chunk.js": "/ReactCookieClicker/static/js/787.a663bc8e.chunk.js",
+    "static/media/cookie.png": "/ReactCookieClicker/static/media/cookie.1a0ce3f333ff4e4e1e71.png",
+    "index.html": "/ReactCookieClicker/index.html",
+    "main.be4dc93a.css.map": "/ReactCookieClicker/static/css/main.be4dc93a.css.map",
+    "main.afdab95d.js.map": "/ReactCookieClicker/static/js/main.afdab95d.js.map",
+    "787.a663bc8e.chunk.js.map": "/ReactCookieClicker/static/js/787.a663bc8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4dc93a.css",
+    "static/js/main.afdab95d.js"
+  ]
+}
