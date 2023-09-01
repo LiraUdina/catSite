@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/-ReactCookieClicker/static/css/main.be4dc93a.css",
-    "main.js": "/-ReactCookieClicker/static/js/main.84f7d41a.js",
-    "static/js/787.a663bc8e.chunk.js": "/-ReactCookieClicker/static/js/787.a663bc8e.chunk.js",
-    "static/media/cookie.png": "/-ReactCookieClicker/static/media/cookie.1a0ce3f333ff4e4e1e71.png",
-    "index.html": "/-ReactCookieClicker/index.html",
-    "main.be4dc93a.css.map": "/-ReactCookieClicker/static/css/main.be4dc93a.css.map",
-    "main.84f7d41a.js.map": "/-ReactCookieClicker/static/js/main.84f7d41a.js.map",
-    "787.a663bc8e.chunk.js.map": "/-ReactCookieClicker/static/js/787.a663bc8e.chunk.js.map"
+    "main.css": "/LiraUdina/-ReactCookieClicker.git/static/css/main.be4dc93a.css",
+    "main.js": "/LiraUdina/-ReactCookieClicker.git/static/js/main.b8f69b69.js",
+    "static/js/787.a663bc8e.chunk.js": "/LiraUdina/-ReactCookieClicker.git/static/js/787.a663bc8e.chunk.js",
+    "static/media/cookie.png": "/LiraUdina/-ReactCookieClicker.git/static/media/cookie.1a0ce3f333ff4e4e1e71.png",
+    "index.html": "/LiraUdina/-ReactCookieClicker.git/index.html",
+    "main.be4dc93a.css.map": "/LiraUdina/-ReactCookieClicker.git/static/css/main.be4dc93a.css.map",
+    "main.b8f69b69.js.map": "/LiraUdina/-ReactCookieClicker.git/static/js/main.b8f69b69.js.map",
+    "787.a663bc8e.chunk.js.map": "/LiraUdina/-ReactCookieClicker.git/static/js/787.a663bc8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be4dc93a.css",
-    "static/js/main.84f7d41a.js"
+    "static/js/main.b8f69b69.js"
   ]
 }
